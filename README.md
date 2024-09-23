@@ -61,6 +61,9 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
+## DNSENUM
+
+![Screenshot (193)](https://github.com/user-attachments/assets/698ce5d8-7e1b-4c7e-9da7-51f35ab18b83)
 
 
 
