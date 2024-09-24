@@ -61,16 +61,9 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
-## DNSENUM
+![Screenshot (203)](https://github.com/user-attachments/assets/035b6a2f-1be8-49c0-b08c-c8e713a4f858)
 
-![Screenshot (193)](https://github.com/user-attachments/assets/698ce5d8-7e1b-4c7e-9da7-51f35ab18b83)
-
-
-
-
-
-
-##dnsenum
+## dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
 
 Get the host’s addresses (A record).
@@ -83,23 +76,28 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+## OUTPUT:
+![Screenshot 2024-09-24 220552](https://github.com/user-attachments/assets/acede183-5e92-43aa-8106-8eb2e325ea25)
+![Screenshot 2024-09-24 220650](https://github.com/user-attachments/assets/b6f0b741-eea9-4b57-98f3-c860ea5f0a24)
+![Screenshot 2024-09-24 220723](https://github.com/user-attachments/assets/45147455-b499-491e-b1a6-c997441a3af5)
 
-
-##smtp-user-enum
+## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
+## OUTPUT:
 
 
-#Telnet for smtp enumeration
+# Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+ ## Output:
+ 
   
   
 
@@ -109,7 +107,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
-
+![Screenshot (210)](https://github.com/user-attachments/assets/b7ba7244-e8e7-4fcf-ae3f-cfd94f9ad982)
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
