@@ -46,7 +46,7 @@ Following searches for pdf file in the domain yahoo.com
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
 ## Output:
-![Screenshot (201)](https://github.com/user-attachments/assets/89724692-edb3-4d2c-b34a-a456754962dd)
+![Screenshot 2024-09-24 211907](https://github.com/user-attachments/assets/f172fa9d-4301-498b-8927-a1a300a99086)
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
