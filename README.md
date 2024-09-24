@@ -33,34 +33,51 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
+## Output:
+![Screenshot 2024-09-24 211602](https://github.com/user-attachments/assets/8efaaff8-0c53-4fc6-96b2-ec0eda36accd)
+
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
+## Output:
+![Screenshot (201)](https://github.com/user-attachments/assets/694649fc-0f99-4665-9e9a-87adf894426d)
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
+## Output:
+![Screenshot (201)](https://github.com/user-attachments/assets/89724692-edb3-4d2c-b34a-a456754962dd)
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
+## Output:
+![Screenshot (202)](https://github.com/user-attachments/assets/8a161297-0259-498e-81c0-ab2ba209bd35)
+
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+
+## Output:
+![Screenshot 2024-09-24 212249](https://github.com/user-attachments/assets/2f51b7b6-69bf-4fc4-939b-4d06e44bc764)
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
+## Output:
+![Screenshot 2024-09-24 212434](https://github.com/user-attachments/assets/5dd2d822-5dc3-4ea2-9d02-b9225f83c44a)
+
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
- 
-#DNS Enumeration
+## Output:
+![Screenshot 2024-09-24 214920](https://github.com/user-attachments/assets/e45def3d-98c7-47aa-be0e-027d2bf71226)
+
+# DNS Enumeration
 
 
-##DNS Recon
+## DNS Recon
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
-
 ![Screenshot (203)](https://github.com/user-attachments/assets/035b6a2f-1be8-49c0-b08c-c8e713a4f858)
 
 ## dnsenum
@@ -97,9 +114,7 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
  ## Output:
- 
-  
-  
+ ![Screenshot (214)](https://github.com/user-attachments/assets/e9a1a401-642a-4675-b790-133db73f36e5)
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
