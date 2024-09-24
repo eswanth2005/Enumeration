@@ -56,7 +56,8 @@ inurl: This operator allows you to search for pages that contain specific text w
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
 ## Output:
-![Uploading Screenshot 2024-09-24 212249.png…]()
+![Screenshot 2024-09-24 212249](https://github.com/user-attachments/assets/18160d03-8acb-41a7-892c-1714c9ba0d95)
+
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
