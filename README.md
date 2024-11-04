@@ -1,6 +1,5 @@
 # Enumeration
 Enumeration Techniques
-
 ### NAME: ESWANTH KUMAR K
 ### REG NO: 212223040046
 
