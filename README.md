@@ -3,7 +3,6 @@ Enumeration Techniques
 ### NAME: ESWANTH KUMAR K
 ### REG NO: 212223040046
 # Explore Google hacking and enumeration 
-
 # AIM:
 
 To use Google for gathering information and perform enumeration of targets
